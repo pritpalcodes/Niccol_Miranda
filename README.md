@@ -1,2 +1,2 @@
 # Niccol_Miranda
-The (Clone of) Paper Portfolio
+The (Clone of) Paper Portfol
